@@ -1,4 +1,4 @@
-# APP-GO_DOGGY_1.0
+# APP-GO_DOGGY_1.0_Front
 Go Doggy 🐾
 Go Doggy es una plataforma integral diseñada para conectar a dueños de mascotas con paseadores certificados y de confianza. Enfocada en la seguridad y la tranquilidad, la aplicación permite gestionar el bienestar de los perros de manera eficiente y moderna.
 
